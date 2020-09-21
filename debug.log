@@ -1,1 +1,6 @@
 [0916/161947.411:ERROR:process_info.cc(359)] UncheckedAllocate
+[0917/130320.351:ERROR:process_info.cc(359)] UncheckedAllocate
+[0917/132613.468:ERROR:process_info.cc(359)] UncheckedAllocate
+[0917/132619.503:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Oksana\AppData\Local\Temp\scoped_dir23808_1334333269\Crashpad\reports\29319316-28e0-495d-9ad3-f30b70bb9f7a.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0917/132646.691:ERROR:process_info.cc(359)] UncheckedAllocate
+[0917/132647.316:ERROR:process_info.cc(359)] UncheckedAllocate
